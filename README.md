@@ -3,7 +3,7 @@
 This solution will stop the issue in which users click the submit and/or approve buttons multiple times.
 
 ##Setup
-###1. Update the **`js/controllers/approvalInputCtrl.js`** file to your project.
+###1. Update the **`js/controllers/approvalInputCtrl.js`** file in your project.
 
 If you are using file overrides, create a new file override named **`js/controllers/approvalInputCtrl.js`** and add this file as the content by following these steps:
 
@@ -13,7 +13,7 @@ If you are using file overrides, create a new file override named **`js/controll
  4. Name this file `js/controllers/approvalInputCtrl.js`
  5. Place raw code in the section below. Save.
 
-###2. Update the **`js/controllers/checkOutViewCtrl.js`** file to your project.
+###2. Update the **`js/controllers/checkOutViewCtrl.js`** file in your project.
 
 If you are using file overrides, create a new file override named **`js/controllers/checkOutViewCtrl.js`** and add this file as the content by following these steps:
 
@@ -24,7 +24,7 @@ If you are using file overrides, create a new file override named **`js/controll
  5. Place raw code in the section below. Save.
 
 
-###3. Update the **`partials/controls/approvalInput.html`** file to your project.
+###3. Update the **`partials/controls/approvalInput.html`** file in your project.
 
 If you are using file overrides, create a new file override named **`partials/controls/approvalInput.html`** and add this file as the content by following these steps:
 
@@ -35,7 +35,7 @@ If you are using file overrides, create a new file override named **`partials/co
  5. Place raw code in the section below. Save.
 
 
-###4. Update the **`partials/controls/checkoutButtons.html`** file to your project.
+###4. Update the **`partials/controls/checkoutButtons.html`** file in your project.
 
 If you are using file overrides, create a new file override named **`partials/controls/checkoutButtons.html`** and add this file as the content by following these steps:
 
