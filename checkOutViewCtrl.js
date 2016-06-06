@@ -31,7 +31,7 @@ function ($scope, $routeParams, $location, $filter, $rootScope, $451, User, Orde
 	                $scope.displayLoadingIndicator = false;
 		        });
 		        $scope.currentOrder = null;
-				$location.path('/order/new/' + data.ID);
+				$location.path('/order/' + data.ID);
 	        },
 	        function(ex) {
 				$scope.submitClicked = false;
